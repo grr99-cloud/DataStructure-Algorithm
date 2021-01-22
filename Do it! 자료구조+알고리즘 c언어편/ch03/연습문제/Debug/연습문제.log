@@ -1,0 +1,4 @@
+﻿  Q06.c
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch03\연습문제\q06.c(35): warning C4477: 'scanf' : 서식 문자열 '%lli'에 '__int64 *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long *'입니다.
+  c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch03\연습문제\q06.c(35): note: 서식 문자열에서 '%li'을(를) 사용하는 것이 좋습니다.
+  연습문제.vcxproj -> C:\Users\82109\Desktop\study\자료구조+알고리즘\Do it! 자료구조+알고리즘 c언어편\ch03\연습문제\Debug\연습문제.exe
