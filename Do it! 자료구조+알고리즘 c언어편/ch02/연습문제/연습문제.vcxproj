@@ -143,6 +143,14 @@
     <ClCompile Include="Q01,02,03.c" />
     <ClCompile Include="Q04.c" />
     <ClCompile Include="Q05.c" />
+    <ClCompile Include="Q06.c" />
+    <ClCompile Include="Q07.c" />
+    <ClCompile Include="Q08.c" />
+    <ClCompile Include="Q09.c" />
+    <ClCompile Include="Q10.c" />
+    <ClCompile Include="Q11.c" />
+    <ClCompile Include="Q12.c" />
+    <ClCompile Include="Q13.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

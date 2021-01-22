@@ -1,0 +1,12 @@
+﻿  Q13.c
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch02\연습문제\q13.c(37): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch02\연습문제\q13.c(55): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch02\연습문제\q13.c(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch02\연습문제\q13.c(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch02\연습문제\q13.c(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\82109\desktop\study\자료구조+알고리즘\do it! 자료구조+알고리즘 c언어편\ch02\연습문제\q13.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  연습문제.vcxproj -> C:\Users\82109\Desktop\study\자료구조+알고리즘\Do it! 자료구조+알고리즘 c언어편\ch02\연습문제\x64\Debug\연습문제.exe
