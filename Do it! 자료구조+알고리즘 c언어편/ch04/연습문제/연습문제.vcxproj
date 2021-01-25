@@ -144,12 +144,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayIntQueue.c" />
     <ClCompile Include="IntStack.c" />
     <ClCompile Include="IntStack2.c" />
     <ClCompile Include="Q01.c" />
     <ClCompile Include="Q02.c" />
+    <ClCompile Include="Q03.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArrayIntQueue.h" />
     <ClInclude Include="IntStack.h" />
     <ClInclude Include="IntStack2.h" />
   </ItemGroup>
